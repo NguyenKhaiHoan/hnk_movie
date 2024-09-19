@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418744743708",
+    "project_id": "blacktv-9a005",
+    "storage_bucket": "blacktv-9a005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418744743708:android:22edfe1c1be404fdb4ecd9",
+        "android_client_info": {
+          "package_name": "com.hnkMovie.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0o-veuoRh5gSU1IIgb0WvhiPV3czjdKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
